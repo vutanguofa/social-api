@@ -16,8 +16,11 @@ This repo includes a social network API that includes POST, GET, PUT, and DELETE
 
 ## Walkthrough
 
-[Link to YouTube walkthrough]()
+[Link to user walkthrough](https://youtu.be/XW3MpeOaBMA)
+[Link to thought walkthrough](https://youtu.be/ywI4ts29kR4)
+[Link to friend walkthrough](https://youtu.be/V3KItpl2pNs)
+[Link to reaction walkthrough](https://youtu.be/B7pnIZXGvXo)
 
 ## GitHub
 
-[Link to Github repo](https://github.com/vutanguofa/social-api)
+[Link to Github repo](https://github.com/vutanguofa/my-social-media)
