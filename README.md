@@ -20,4 +20,4 @@ This repo includes a social network API that includes POST, GET, PUT, and DELETE
 
 ## GitHub
 
-[Link to Github repo](https://github.com/vutanguofa/my-social-media)
+[Link to Github repo](https://github.com/vutanguofa/social-api)
