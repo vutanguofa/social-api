@@ -16,10 +16,10 @@ This repo includes a social network API that includes POST, GET, PUT, and DELETE
 
 ## Walkthrough
 
-[Link to user walkthrough](https://youtu.be/XW3MpeOaBMA)
-[Link to thought walkthrough](https://youtu.be/ywI4ts29kR4)
-[Link to friend walkthrough](https://youtu.be/V3KItpl2pNs)
-[Link to reaction walkthrough](https://youtu.be/B7pnIZXGvXo)
+[Link to user walkthrough](https://youtu.be/XW3MpeOaBMA)<br />
+[Link to thought walkthrough](https://youtu.be/ywI4ts29kR4)<br />
+[Link to friend walkthrough](https://youtu.be/V3KItpl2pNs)<br />
+[Link to reaction walkthrough](https://youtu.be/B7pnIZXGvXo)<br />
 
 ## GitHub
 
